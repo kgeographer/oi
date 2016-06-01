@@ -1,6 +1,7 @@
 ##The Orbis Initiative
 
-Please see [this blog post](http://kgeographer.com/the-orbis-initiative-a-pelagios-for-networks/) until I can make a proper README
+Please see [this blog post](http://kgeographer.com/the-orbis-initiative-a-pelagios-for-networks/) until I can make a proper README.  
+[**Topotime**](https://github.com/kgeographer/topotime) is an experimental GeoJSON extension work-in-progress; examples in that repo and here are not closely coordinated with these (yet).
 
 #### Example Topotime data files/maps (in progress)
 ##### *_Bag of Features approach_*
@@ -12,3 +13,5 @@ Itineraries
 The Pilgrimage of Xuanzang, 629-646 CE
 
 ##### *_GeometryCollection approach_*
+
+soon
