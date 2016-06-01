@@ -4,7 +4,7 @@ Please see [this blog post](http://kgeographer.com/the-orbis-initiative-a-pelagi
 [**Topotime**](https://github.com/kgeographer/topotime) is an experimental GeoJSON extension work-in-progress; examples in that repo are not closely coordinated with these (yet).  
 
 ![Incanto Trade](/images/incanto_numships.png)  
-*_Route density (# ships) in Venitian Incanto trade 1283-1453, calculated using [ORBIS:Rome](http://orbis.stanford.edu) network model_*  
+**_Route density (# ships) in Venitian Incanto trade 1283-1453, calculated using [ORBIS:Rome](http://orbis.stanford.edu) network model_**  
 Fournier, M. (2015). Venetian maritime supremacy through time. *_Maritime Networks: Spatial Structures and Time Dynamics_*, 77.
 
 #### Example Topotime data files/maps (in progress)
