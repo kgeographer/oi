@@ -20,7 +20,8 @@ Itineraries:
 [Incanto Trade: Places, 1283-1453 CE](https://github.com/kgeographer/oi/blob/master/data/incanto_places.geojson)  
 
 Flows:  
-[Incanto Trade: Total ships per segment, 1282-1453](https://github.com/kgeographer/oi/blob/master/data/incanto_total-ships.geojson)
+[Incanto Trade: Total ships per segment, 1282-1453](https://github.com/kgeographer/oi/blob/master/data/incanto_total-ships.geojson)  
+[Incanto Trade: Total ships per segment (w/places), 1282-1453](https://github.com/kgeographer/oi/blob/master/data/incanto_flow-features-w-places.geojson)
 
 <!--##### *_GeometryCollection approach_*
 
