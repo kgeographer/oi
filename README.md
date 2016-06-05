@@ -17,7 +17,7 @@ Itineraries:
 [Incanto Trade: 1 voyage (Venice-Armenia), 1301 CE;  ](https://github.com/kgeographer/oi/blob/master/data/incanto_1yoyage-no-places.geojson)  
 [Incanto Trade: 3523 segments of 840 voyages, 1283-1453 CE;  ](https://github.com/kgeographer/oi/blob/master/data/incanto_840voyages.geojson)  
 [Incanto Trade: Places, 1283-1453 CE](https://github.com/kgeographer/oi/blob/master/data/incanto_places.geojson)  
-[The Pilgrimage of Xuanzang, 629-646 CE](https://github.com/kgeographer/oi/blob/master/data/ixuanzang_way-collection.geojson)
+[The Pilgrimage of Xuanzang, 629-646 CE](https://github.com/kgeographer/oi/blob/master/data/xuanzang_way-collection.geojson)
 
 Flows:  
 _soon_
