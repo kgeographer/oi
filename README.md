@@ -1,6 +1,6 @@
 ##The Orbis Initiative
 
-Please see [this blog post](http://kgeographer.com/the-orbis-initiative-a-pelagios-for-networks/) until I can make a proper README.  
+Please see [this blog post](http://kgeographer.com/the-orbis-initiative-a-pelagios-for-networks-take-2/) until I can make a proper README.  
 
 
 ![Incanto Trade](/images/incanto_numships.png)  
